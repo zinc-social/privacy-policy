@@ -66,7 +66,6 @@ The App is not intended for use by children under the age of 13. We do not knowi
 ## 11. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy within the App. Your continued use of the App after changes are posted constitutes your acceptance of the revised policy.
 ## 12. Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
-**Email**: nicola.witzig@gmail.com
+If you have any questions or concerns about this Privacy Policy or our data practices, please [contact us](nicola.witzig@gmail.com).
 ---
 
