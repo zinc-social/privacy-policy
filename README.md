@@ -14,11 +14,12 @@ This Privacy Policy describes how we ("we," "us," or "our") collects, uses, and 
 When you create an account, we collect:
 - **Phone number** — used for authentication via SMS one-time password (OTP) verification
 - **Name** — your display name within the App
-- **Date of birth (optionally)** — used for profile personalization
-
+- 
 ### 2.2 Profile Information
 You may optionally provide:
 - **Profile photo** — uploaded from your device's photo library
+- **Date of birth (optionally)** — used for profile personalization
+
 
 ### 2.3 Contact Information (Optional)
 If you grant the App access to your device contacts and explicitly import them, we collect:
