@@ -110,8 +110,6 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-**Email**: [YOUR_EMAIL_ADDRESS]
+**Email**: nicola.witzig@gmail.com
 
 ---
-
-Replace `[YOUR_EMAIL_ADDRESS]` with your actual contact email. Once it's hosted as a public Google Doc, you'll need the URL for both App Store Connect metadata and to link from within the app.
