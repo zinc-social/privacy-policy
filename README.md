@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy describes how Nicola Valentin Witzig ("we," "us," or "our") collects, uses, and protects your personal information when you use the Zinc: Events for Friends mobile application ("the App"). By using the App, you agree to the collection and use of information as described in this policy.
+This Privacy Policy describes how we ("we," "us," or "our") collects, uses, and protects your personal information when you use the Zinc: Events for Friends mobile application ("the App"). By using the App, you agree to the collection and use of information as described in this policy.
 
 ## 2. Information We Collect
 
