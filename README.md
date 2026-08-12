@@ -22,9 +22,8 @@ You may optionally provide:
 
 
 ### 2.3 Contact Information (Optional)
-If you grant the App access to your device contacts and explicitly import them, we collect:
-- **Phone numbers** from your contacts — normalized to E.164 format and stored on our servers to identify which contacts are already using the App
-- **Contact display names** — stored locally on your device only (never transmitted to our servers), used solely to show you a recognizable label for each imported contact
+If you enable contact discovery and grant the App access to your device contacts, we process:
+- **Phone numbers** - from contacts shared with the App — normalized to E.164 format and transmitted to our server solely for account matching. The server immediately converts them into keyed lookup hashes. We do not retain the raw numbers as contact-discovery data; only the keyed hashes are stored.
 
 Contact import is entirely opt-in. You can view, remove individual contacts, or re-sync your imported contacts at any time from the Imported Contacts screen in the App's settings.
 
@@ -49,6 +48,7 @@ The App collects information about your connections with other users:
 - We do **not** collect device identifiers or device-specific information
 - We do **not** use analytics, crash reporting, or advertising SDKs
 - We do **not** access your device contacts without your explicit action — contact data is only read and transmitted if you choose to import contacts via the Imported Contacts feature
+- We do **not** collect your contact display names even for contacts you share with the App. They are stored locally on your device only and never transmitted to our servers.
 - We do **not** track your activity across other apps or websites
 
 ## 4. How We Use Your Information
